@@ -71,7 +71,4 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FortuneMal&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Graph" />
-  <img src="https://github-readme-stats.herokuapp.com/api?username=FortuneMal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" height="220" alt="GitHub Stats" />
-</div>
+
