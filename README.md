@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/mphikeleli-malaza-5b386a253" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
 <div align="center">
@@ -20,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FortuneMal.FortuneMal&" alt="Visitor Count" />
 </div>
 
 <h1 align="center">Hey there, I'm Fortune Malaza 👋</h1>
@@ -29,7 +27,15 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm a **Software Developer** with a passion for building robust and scalable applications. I focus on backend development, cloud infrastructure, and modern web technologies.<br><br>- 🔭 I’m working on **microservices architecture** and **cloud-native solutions**.<br>- 📚 I'm currently learning **advanced design patterns in Go** and **Rust for system programming**.<br>- ⚡ In my free time, I enjoy **contributing to open-source projects** and **exploring new frameworks**.</p>
+<p align="left">
+  I am someone who loves **learning, creating and connecting** with people. Tech is my craft, but **growth and purpose** are my fuel. I started my engineering journey at **ALX Africa** — the first place that taught me grit and resilience.
+  <br><br>
+  - 🔭 I’m currently focused on ... *(e.g., building scalable cloud infrastructure)*
+  <br>
+  - 📚 I'm always learning ... *(e.g., advanced concepts in microservices architecture)*
+  <br>
+  - ⚡ In my free time I ... *(e.g., contributing to open source or exploring new frameworks)*
+</p>
 
 ---
 
@@ -76,13 +82,9 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&order=2" height="220" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=FortuneMal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FortuneMal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&order=2" height="220" alt="GitHub Stats" />
 </div>
-<!--
-**FortuneMal/FortuneMal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
