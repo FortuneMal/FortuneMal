@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  I am someone who loves **learning, creating and connecting** with people. Tech is my craft, but **growth and purpose** are my fuel. I started my engineering journey at **ALX Africa** — the first place that taught me grit and resilience.
+  I am someone who loves learning, creating and connecting with people. Tech is my craft, but growth and purpose are my fuel. I started my engineering journey at ALX Africa — the first place that taught me grit and resilience.
   <br><br>
   - 🔭 I’m currently focused on **learning Software and Cloud Engineering fundamentals**
   <br>
