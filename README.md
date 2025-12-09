@@ -30,11 +30,11 @@
 <p align="left">
   I am someone who loves **learning, creating and connecting** with people. Tech is my craft, but **growth and purpose** are my fuel. I started my engineering journey at **ALX Africa** — the first place that taught me grit and resilience.
   <br><br>
-  - 🔭 I’m currently focused on ... *(e.g., building scalable cloud infrastructure)*
+  - 🔭 I’m currently focused on **learning Software and Cloud Engineering fundamentals**
   <br>
-  - 📚 I'm always learning ... *(e.g., advanced concepts in microservices architecture)*
+  - 📚 I'm always learning to help **improve myself and just keep up with latest technologies**
   <br>
-  - ⚡ In my free time I ... *(e.g., contributing to open source or exploring new frameworks)*
+  - ⚡ In my free time I try my very best to **rest so I'm able to keep fresh to keep learning and working**
 </p>
 
 ---
@@ -46,15 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="Ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="DotNET logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
   <img width="12" />
@@ -72,8 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="CircleCI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
 </div>
 
@@ -85,13 +75,3 @@
   <img src="https://streak-stats.demolab.com?user=FortuneMal&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=FortuneMal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&order=2" height="220" alt="GitHub Stats" />
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
