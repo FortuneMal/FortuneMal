@@ -25,9 +25,14 @@ I am a South African based developer dedicated to **building AI applications tha
 ---
 
 ### 📊 Vital Signs
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FortuneMal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fortune's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuneMal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FortuneMal&show_icons=true&theme=radical&rank_icon=github" alt="Fortune's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortuneMal&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FortuneMal&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
