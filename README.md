@@ -1,74 +1,18 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-</div>
+# Hi there, I'm Fortune! 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mphikeleli-malaza-5b386a253" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
+## 🚀 AI & Full Stack Developer | INFJ | Tswana 🇿🇦
+I build intelligent solutions using LLMs, Agentic AI, and robust Full-Stack architectures. 
 
-<div align="center">
-  <a href="https://personal-portfolio-xi-inky-39.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Website-333333?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Website Link" />
-  </a>
-  <a href="mailto:fmalaza512@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email Link" />
-  </a>
-</div>
+- 🛠️ Currently working on **Eye-Spend** (Personal Finance) and **Mzansi Law GPT** (RAG-based Legal Assistant).
+- 🧠 Deeply interested in **Retrieval-Augmented Generation (RAG)** and **Deep Learning**.
+- 🎓 ALX Africa Software Engineering Alum.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FortuneMal.FortuneMal&" alt="Visitor Count" />
-</div>
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h1 align="center">Hey there, I'm Fortune Malaza 👋</h1>
-
----
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
- I’m someone who loves learning, creating, and connecting with people. Technology is my craft, but growth and purpose are what fuel me. My engineering journey began at ALX Africa, where I developed grit and resilience. I’m currently focused on AI engineering, using AI models and agents to turn innovative ideas into practical projects. I also have a background in data and cloud engineering, which allows me to build efficient, scalable solutions. I’m driven by a constant desire to learn and improve so I can work smarter and more effectively.
-  <br><br>
-  - 🔭 I’m currently focused on **learning Software and AI Engineering fundamentals**
-  <br>
-  - 📚 I'm always learning to help **improve myself and just keep up with latest technologies**
-  <br>
-  - ⚡ In my free time I try my very best to **rest so I'm able to keep fresh to keep learning and working**
-</p>
-
----
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="Azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="CircleCI logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
-</div>
-
----
-
-<h3 align="left">🔥 My Stats :</h3>
-
-
+### 📊 GitHub Stats
+![Fortune's GitHub stats](https://github-readme-stats.vercel.app/api?username=FortuneMal&show_icons=true&theme=radical)
